@@ -27,7 +27,7 @@ export const FullBlog = ({blog}: {blog: Blog} ) =>{
                 </div>
                 <div className="flex flex-col pl-5">
                     <div className="text-2xl font-bold">{blog.author.name || "Anonymous"}</div>
-                    <div className="pt-2 font-semibold text-slate-600">Nora Fatehi is a Canadian dancer and actress based in India. She has appeared in Hindi, Telugu and Malayalam films</div>
+                    <div className="pt-2 font-semibold text-slate-600">Give a short bio of the author here</div>
                 </div>
             </div>
         </div>
